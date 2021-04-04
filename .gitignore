@@ -1,0 +1,12 @@
+*.txt
+!sample/*.txt
+*.pyc
+*.sh
+*.log
+
+\chrome-data
+\{PATH}
+\.vscode
+\__pycache__
+settings.py
+README.md
